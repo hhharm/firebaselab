@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "friendlychat-76c2e",
+    "test": "friendlychat-76c2e"
+  },
+  "targets": {
+    "friendlychat-76c2e": {
+      "hosting": {
+        "friendlychat-76c2e": [
+          "friendlychat-76c2e"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
